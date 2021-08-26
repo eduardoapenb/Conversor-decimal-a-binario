@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 50rem;
+}
+
+main section{
+    width: 50rem;
+    height: 25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+main section label {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+}
+
+main section label span{
+    font-size: 2rem;
+    margin: 1rem 0;
+
+
+}
+
+main section label input {
+    width: 30rem;
+    height: 2.5rem;
+    margin: 1rem 0;
+}
+
+main section label button{
+    width: 15rem;
+    height: 2rem;
+}
+
+main section h2{
+    margin-top: 2rem;
+    text-align: left;
+    width: 30rem;
+}
+
+main section output{
+    border: .2rem solid gray;
+    margin: 1rem 0;
+    width: 15rem;
+    height: 3rem;
+    text-align: center;
+    font-size: 2rem;
+}
