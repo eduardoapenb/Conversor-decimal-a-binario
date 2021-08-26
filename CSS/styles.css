@@ -59,7 +59,7 @@ main section h2{
 main section output{
     border: .2rem solid gray;
     margin: 1rem 0;
-    width: 15rem;
+    min-width: 15rem;
     height: 3rem;
     text-align: center;
     font-size: 2rem;
