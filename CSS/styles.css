@@ -63,4 +63,5 @@ main section output{
     height: 3rem;
     text-align: center;
     font-size: 2rem;
+    padding: 0.3rem 0.6rem 0.5rem;
 }
