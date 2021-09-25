@@ -24,6 +24,7 @@ main section{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    border: .5rem solid blue;
 }
 
 main section label {
